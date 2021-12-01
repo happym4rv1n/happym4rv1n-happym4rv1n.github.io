@@ -1,0 +1,6 @@
+site_name: The Hitchhikers Guide to the [void]
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - yaml
